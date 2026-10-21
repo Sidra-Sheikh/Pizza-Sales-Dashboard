@@ -166,5 +166,5 @@ Dashboard 2: Pizzeria Trends
 
 This dashboard explores daily and monthly order trends, revenue contribution by pizza category and size, and total pizzas sold by category.
 
-"Pizzeria Trends Dashboard" ( )
+"Pizzeria Trends Dashboard" (https://github.com/Sidra-Sheikh/Pizza-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard%202.PNG )
 
