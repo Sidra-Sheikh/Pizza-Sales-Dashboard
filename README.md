@@ -160,11 +160,11 @@ Dashboard 1: Pizzeria Performance
 
 This dashboard presents the key sales KPIs and compares the top 5 and bottom 5 pizzas by revenue, quantity sold, and total orders.
 
-"Pizzeria Performance Dashboard" ()
+"Pizzeria Performance Dashboard" (https://github.com/Sidra-Sheikh/Pizza-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard%201.PNG)
 
 Dashboard 2: Pizzeria Trends
 
 This dashboard explores daily and monthly order trends, revenue contribution by pizza category and size, and total pizzas sold by category.
 
-"Pizzeria Trends Dashboard" (images/pizzeria-trends.png)
+"Pizzeria Trends Dashboard" ( )
 
